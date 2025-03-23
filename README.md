@@ -1,2 +1,2 @@
-# ScientificCalculator
-Desktop App (Basic Scientific Calculator) 100% Java #Swing
+# Basic Scientific App
+A Calculator application using Java **Swing**. 
